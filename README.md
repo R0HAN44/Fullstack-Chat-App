@@ -1,4 +1,5 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+# Real Time Chat App 
+## This chat App is a real-time messaging app that offers instant communication between users. With features like one-on-one communication,end-to-end encryption, secure, and user-friendly communication experiences.
 
 [Demo App](https://fullstack-chat-app-eq7p.onrender.com/)
 
